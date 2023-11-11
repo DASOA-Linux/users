@@ -1,4 +1,4 @@
-#Gestión de usuarios en Linux
+# Gestión de usuarios en Linux
 
 Este script facilita la gestión de usuarios en sistemas GNU/Linux. Susfunciones son la creación de usuarios, la modificación de contraseñas, la eliminación de usuarios y la incorporación de usuarios a grupos.
 
